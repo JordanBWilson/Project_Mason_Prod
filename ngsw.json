@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1573607554607,
+  "index": "/Project_Mason_Prod/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/Project_Mason_Prod/5-es2015.edd6aaeff2fdfec12e95.js",
+        "/Project_Mason_Prod/5-es5.edd6aaeff2fdfec12e95.js",
+        "/Project_Mason_Prod/6-es2015.496b1b918f79573f1d91.js",
+        "/Project_Mason_Prod/6-es5.496b1b918f79573f1d91.js",
+        "/Project_Mason_Prod/7-es2015.699ea6e357460a1744be.js",
+        "/Project_Mason_Prod/7-es5.699ea6e357460a1744be.js",
+        "/Project_Mason_Prod/favicon.ico",
+        "/Project_Mason_Prod/index.html",
+        "/Project_Mason_Prod/main-es2015.22b50628db0eda33a561.js",
+        "/Project_Mason_Prod/main-es5.22b50628db0eda33a561.js",
+        "/Project_Mason_Prod/manifest.webmanifest",
+        "/Project_Mason_Prod/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "/Project_Mason_Prod/polyfills-es5.df1101cc1e7b588877f8.js",
+        "/Project_Mason_Prod/runtime-es2015.4295a045e1a0b6e14185.js",
+        "/Project_Mason_Prod/runtime-es5.4295a045e1a0b6e14185.js",
+        "/Project_Mason_Prod/styles.dc27195302b6c6d7aa4e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/Project_Mason_Prod/assets/icons/MasonIcon-128.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-144.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-152.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-192.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-384.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-512.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-72.png",
+        "/Project_Mason_Prod/assets/icons/MasonIcon-96.png",
+        "/Project_Mason_Prod/assets/images/bandit.png",
+        "/Project_Mason_Prod/assets/images/guard.png",
+        "/Project_Mason_Prod/assets/images/rock1.png",
+        "/Project_Mason_Prod/assets/images/rock2.png",
+        "/Project_Mason_Prod/assets/images/rock3.png",
+        "/Project_Mason_Prod/assets/images/rock4.png",
+        "/Project_Mason_Prod/assets/images/rockChiseled.png",
+        "/Project_Mason_Prod/assets/images/stickman404.png",
+        "/Project_Mason_Prod/assets/images/stoneWorker.png",
+        "/Project_Mason_Prod/assets/images/tradeWorker.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Project_Mason_Prod/5-es2015.edd6aaeff2fdfec12e95.js": "abf4e4c498fbf3de2c32453d4e31f56f28f47a4d",
+    "/Project_Mason_Prod/5-es5.edd6aaeff2fdfec12e95.js": "d51bf4cbfbb6998ac7f2a70ce259b901a53a58bc",
+    "/Project_Mason_Prod/6-es2015.496b1b918f79573f1d91.js": "5ec853c2e6764357a67320037d462e0a97160e27",
+    "/Project_Mason_Prod/6-es5.496b1b918f79573f1d91.js": "ba7eda87a7a12a126235248198698cbfb6d91fc1",
+    "/Project_Mason_Prod/7-es2015.699ea6e357460a1744be.js": "c894be1347356304ea33fb7d2f3bd8a9c1e9a9ee",
+    "/Project_Mason_Prod/7-es5.699ea6e357460a1744be.js": "5e32eac01265c2e9fff66cd9a314d07bbdd2a392",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-128.png": "a22045e9e5706bc969c6c1a5a27f8357d8f682b8",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-144.png": "49a4e8a67086a5748485446f05ad520d1aeb0ad3",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-152.png": "4f29f1ae60c32a9d8121dd7c34cf346d9af39247",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-192.png": "b2b52013963766824291e6e80f81236f512fe4aa",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-384.png": "9441e5c27121650ea8f9bce98542bb4ea6c3f5fa",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-512.png": "560e6a5d78577638f9442f8329db4c774ebc25ab",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-72.png": "5e20bc41aebeda20bba83fe4fcc509ebc149c1e4",
+    "/Project_Mason_Prod/assets/icons/MasonIcon-96.png": "3440958f9e6541879ef1971d6010ef71a975af51",
+    "/Project_Mason_Prod/assets/images/bandit.png": "a6855b3c8afa653dff77231513d0074eabf195c7",
+    "/Project_Mason_Prod/assets/images/guard.png": "8abaa1760f697ad9223e8c5efdb5ca98b8d19cc3",
+    "/Project_Mason_Prod/assets/images/rock1.png": "1ea57ab6cbf20d19a145d20509e1d57d7cf7e5ec",
+    "/Project_Mason_Prod/assets/images/rock2.png": "a9728fb1554475274176d9e347ab1d34bbae1d50",
+    "/Project_Mason_Prod/assets/images/rock3.png": "2ac4002cefbcb4f93b21f2fbe37cf84c1a0d01c2",
+    "/Project_Mason_Prod/assets/images/rock4.png": "a10c03a9d057ffabd45487507bb1c71f9e4220d6",
+    "/Project_Mason_Prod/assets/images/rockChiseled.png": "9ae19dd5bfd9bc5e3ced5bb9415973cfdb69f0a6",
+    "/Project_Mason_Prod/assets/images/stickman404.png": "65920380aeb7646089f9d2382777d312cb3963a5",
+    "/Project_Mason_Prod/assets/images/stoneWorker.png": "62516d9decd5778c4614cbce02d73df7ab042dcf",
+    "/Project_Mason_Prod/assets/images/tradeWorker.png": "12c332d52fcb0a99c5605b327d1d596be8580480",
+    "/Project_Mason_Prod/favicon.ico": "d0a3e2dea21c7d060cf21c7edb75d5508bf40d4b",
+    "/Project_Mason_Prod/index.html": "6744ab19556b53d11f15adcd043e0d8a739e971f",
+    "/Project_Mason_Prod/main-es2015.22b50628db0eda33a561.js": "c737599714d6c39204932da9a6f06c80c8c75ef2",
+    "/Project_Mason_Prod/main-es5.22b50628db0eda33a561.js": "b682bf2021c36c2d1a36b29f77725e7a05b401fe",
+    "/Project_Mason_Prod/manifest.webmanifest": "17dcae873f0b3d9b742f0e5b1a8e63d92a1abfeb",
+    "/Project_Mason_Prod/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "/Project_Mason_Prod/polyfills-es5.df1101cc1e7b588877f8.js": "c1b326602e7b72c79de60cd3c2fd8f60a97bf078",
+    "/Project_Mason_Prod/runtime-es2015.4295a045e1a0b6e14185.js": "480fdc4f56c4d3067f54a273f8c7749ef01d9e76",
+    "/Project_Mason_Prod/runtime-es5.4295a045e1a0b6e14185.js": "86bf7771043ae8d31886d1e08f99812ad47f6797",
+    "/Project_Mason_Prod/styles.dc27195302b6c6d7aa4e.css": "2dedcaf6fd0029aa15d5cfba4eb51334c315cab2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
