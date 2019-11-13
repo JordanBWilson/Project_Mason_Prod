@@ -4,9 +4,9 @@
   "theme_color": "#673ab7",
   "background_color": "#673ab7",
   "display": "fullscreen",
+  "scope": "/Project_Mason_Prod/",
+  "start_url": "/Project_Mason_Prod/",
   "orientation": "portrait",
-  "scope": "./",
-  "start_url": "./",
   "icons": [
     {
       "src": "./assets/icons/MasonIcon-72.png",
