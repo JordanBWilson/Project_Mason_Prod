@@ -4,8 +4,8 @@
   "theme_color": "#606060",
   "background_color": "#606060",
   "display": "fullscreen",
-  "scope": "./Project_Mason_Prod/",
-  "start_url": "./Project_Mason_Prod/",
+  "scope": "/Project_Mason_Prod/",
+  "start_url": "",
   "orientation": "portrait",
   "icons": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "src": "./assets/icons/masonIcon-348.png",
-      "sizes": "384x384",
+      "sizes": "348x348",
       "type": "image/png",
       "purpose": "any maskable"
     },
