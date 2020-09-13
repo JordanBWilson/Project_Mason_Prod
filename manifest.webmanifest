@@ -5,7 +5,7 @@
   "background_color": "#606060",
   "display": "fullscreen",
   "scope": "/Project_Mason_Prod/",
-  "start_url": "/",
+  "start_url": "/Project_Mason_Prod/",
   "orientation": "portrait",
   "icons": [
     {
