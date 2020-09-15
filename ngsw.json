@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600212377904,
+  "timestamp": 1600213445059,
   "index": "/Project_Mason_Prod/index.html",
   "assetGroups": [
     {
@@ -115,7 +115,7 @@
     "/Project_Mason_Prod/assets/sounds/sword_slash2.wav": "52ab35f0fc5798bdc63ccaf9c1081e7af6bd9f8e",
     "/Project_Mason_Prod/assets/sounds/upgrade.wav": "a3639c6df982e091658bf0fd9b26575a8548ecf5",
     "/Project_Mason_Prod/favicon.ico": "8e00ad3bc424cbff3db46a7aee9c68276583931f",
-    "/Project_Mason_Prod/index.html": "856375dc8c7ffb30bcd9ba9065b566560893765c",
+    "/Project_Mason_Prod/index.html": "6cb03eb4fb83e9835e77d8978974f43ba158036c",
     "/Project_Mason_Prod/main-es2015.5a5f6efaf526f58b17db.js": "af793fd4e6709428f4fd1d9e9d8f6a4ac81cbeff",
     "/Project_Mason_Prod/main-es5.5a5f6efaf526f58b17db.js": "d73c733d2d42155023e6b7151337da2452ffdbb5",
     "/Project_Mason_Prod/manifest.webmanifest": "db86c1a2b093a3e9e37f1285858e1a2e81b56ac0",
