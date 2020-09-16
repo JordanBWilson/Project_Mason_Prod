@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600218394448,
+  "timestamp": 1600219179101,
   "index": "/Project_Mason_Prod/index.html",
   "assetGroups": [
     {
@@ -32,6 +32,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/Project_Mason_Prod/assets/icons/apple-touch-icon.png",
         "/Project_Mason_Prod/assets/icons/masonIcon-128.png",
         "/Project_Mason_Prod/assets/icons/masonIcon-144.png",
         "/Project_Mason_Prod/assets/icons/masonIcon-152.png",
@@ -79,6 +80,7 @@
     "/Project_Mason_Prod/6-es5.182c9ed59793c04f61a0.js": "605ba3cdbf63aedaa49532e23553521a63430582",
     "/Project_Mason_Prod/7-es2015.e91e9f1a31dc137e0dbb.js": "921fc0493996224409d0b46a777c3fc8eb5b13b3",
     "/Project_Mason_Prod/7-es5.e91e9f1a31dc137e0dbb.js": "1dd2647363de7f1a881eaa784fead89cb5dbb410",
+    "/Project_Mason_Prod/assets/icons/apple-touch-icon.png": "c264aa3c1fdda2e2c495cc2a2d2cd4e1fef63221",
     "/Project_Mason_Prod/assets/icons/masonIcon-128.png": "ca10fbe7fc3d18eeb12714eb4538d7636bedba68",
     "/Project_Mason_Prod/assets/icons/masonIcon-144.png": "30da477d596a93cf8da473704ad9b784d0808574",
     "/Project_Mason_Prod/assets/icons/masonIcon-152.png": "e837d28310c116cf1216a32dbbf5d4806fe22625",
@@ -115,7 +117,7 @@
     "/Project_Mason_Prod/assets/sounds/sword_slash2.wav": "52ab35f0fc5798bdc63ccaf9c1081e7af6bd9f8e",
     "/Project_Mason_Prod/assets/sounds/upgrade.wav": "a3639c6df982e091658bf0fd9b26575a8548ecf5",
     "/Project_Mason_Prod/favicon.ico": "8e00ad3bc424cbff3db46a7aee9c68276583931f",
-    "/Project_Mason_Prod/index.html": "b6a53a83d7cb355573806adf46ae6d43180fda7b",
+    "/Project_Mason_Prod/index.html": "3aede572d7ad09409985d63f8c0c7d240098737c",
     "/Project_Mason_Prod/main-es2015.5a5f6efaf526f58b17db.js": "af793fd4e6709428f4fd1d9e9d8f6a4ac81cbeff",
     "/Project_Mason_Prod/main-es5.5a5f6efaf526f58b17db.js": "d73c733d2d42155023e6b7151337da2452ffdbb5",
     "/Project_Mason_Prod/manifest.webmanifest": "db86c1a2b093a3e9e37f1285858e1a2e81b56ac0",
