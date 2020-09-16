@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600219179101,
+  "timestamp": 1600220488832,
   "index": "/Project_Mason_Prod/index.html",
   "assetGroups": [
     {
@@ -67,7 +67,17 @@
         "/Project_Mason_Prod/assets/sounds/sword_clang2.wav",
         "/Project_Mason_Prod/assets/sounds/sword_slash1.wav",
         "/Project_Mason_Prod/assets/sounds/sword_slash2.wav",
-        "/Project_Mason_Prod/assets/sounds/upgrade.wav"
+        "/Project_Mason_Prod/assets/sounds/upgrade.wav",
+        "/Project_Mason_Prod/assets/splashscreens/ipad_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/ipadpro1_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/ipadpro2_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/ipadpro3_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/iphone5_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/iphone6_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/iphoneplus_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/iphonex_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/iphonexr_splash.png",
+        "/Project_Mason_Prod/assets/splashscreens/iphonexsmax_splash.png"
       ],
       "patterns": []
     }
@@ -116,8 +126,18 @@
     "/Project_Mason_Prod/assets/sounds/sword_slash1.wav": "53e203327c9bfadbc2c85db19bda30a717ce79c5",
     "/Project_Mason_Prod/assets/sounds/sword_slash2.wav": "52ab35f0fc5798bdc63ccaf9c1081e7af6bd9f8e",
     "/Project_Mason_Prod/assets/sounds/upgrade.wav": "a3639c6df982e091658bf0fd9b26575a8548ecf5",
+    "/Project_Mason_Prod/assets/splashscreens/ipad_splash.png": "eda9c1f104e7e6bbd650769866673949d500a27e",
+    "/Project_Mason_Prod/assets/splashscreens/ipadpro1_splash.png": "66528413044434db35111b1f507860a86bdc1913",
+    "/Project_Mason_Prod/assets/splashscreens/ipadpro2_splash.png": "5e3c5da8e8da330a3f9e36f9c6de73e170ba8aad",
+    "/Project_Mason_Prod/assets/splashscreens/ipadpro3_splash.png": "f8003d803530680d58b4a31394c76227782f8042",
+    "/Project_Mason_Prod/assets/splashscreens/iphone5_splash.png": "db8d0372f0f46d6e4af2a679f42ea1f9d9716048",
+    "/Project_Mason_Prod/assets/splashscreens/iphone6_splash.png": "04d70aeb208b74d73477a9ee37b73f4271d95ce5",
+    "/Project_Mason_Prod/assets/splashscreens/iphoneplus_splash.png": "72e59439b81e410bed0d5d846b7a5a9de6252400",
+    "/Project_Mason_Prod/assets/splashscreens/iphonex_splash.png": "2736350e6cbee7254ba1fe7c8aee1466c8fba0db",
+    "/Project_Mason_Prod/assets/splashscreens/iphonexr_splash.png": "9a2dd4d658c336fb51a68e622e265fa5b677234c",
+    "/Project_Mason_Prod/assets/splashscreens/iphonexsmax_splash.png": "e2f1e11ddab7d82621c8e681f80732baedc4cb72",
     "/Project_Mason_Prod/favicon.ico": "8e00ad3bc424cbff3db46a7aee9c68276583931f",
-    "/Project_Mason_Prod/index.html": "3aede572d7ad09409985d63f8c0c7d240098737c",
+    "/Project_Mason_Prod/index.html": "dcae6da28b9cf0647f69584b6825ac9f82254b90",
     "/Project_Mason_Prod/main-es2015.5a5f6efaf526f58b17db.js": "af793fd4e6709428f4fd1d9e9d8f6a4ac81cbeff",
     "/Project_Mason_Prod/main-es5.5a5f6efaf526f58b17db.js": "d73c733d2d42155023e6b7151337da2452ffdbb5",
     "/Project_Mason_Prod/manifest.webmanifest": "db86c1a2b093a3e9e37f1285858e1a2e81b56ac0",
